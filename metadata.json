@@ -1,0 +1,7 @@
+{
+  "name": "Ciné-Incruste",
+  "description": "Une application interactive où les utilisateurs s'incrustent en temps réel dans des scènes de film grâce à la suppression de fond par IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
